@@ -1,9 +1,2 @@
-Git is a version control system.
-Git is free softwared
-
-Now Git is changed.
-
-This file is being changed again.
-
-
-test what is happening now~
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
